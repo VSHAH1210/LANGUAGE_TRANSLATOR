@@ -19,6 +19,8 @@ This project is a simple yet powerful Language Translator application developed 
 4.Error handling for invalid inputs or API issues.
 
 # Technologies Used
-Java: Core programming language.
-Google Translation API: Provides translation capabilities.
-Maven/Gradle (Optional): Dependency management.
+1.Java: Core programming language.
+<br>
+2.Google Translation API: Provides translation capabilities.
+<br>
+3.Maven/Gradle (Optional): Dependency management.
