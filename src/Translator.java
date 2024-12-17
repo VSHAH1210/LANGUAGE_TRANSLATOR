@@ -8,7 +8,7 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
 public class Translator {
-    private final String APIkey="AIzaSyBZwn6u6yY-ropAoJPMZdubF5Kgz4B2e3k";
+    private final String APIkey="You can get your API key from Google Translate";
     public String translate(String text, String targetedLang){
         try{
             String urlString = "https://translation.googleapis.com/language/translate/v2?key="+APIkey;
