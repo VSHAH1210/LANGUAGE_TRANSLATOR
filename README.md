@@ -11,8 +11,11 @@ This project is a simple yet powerful Language Translator application developed 
 
 # Features
 1.Translate text between multiple languages.
+<br>
 2.Seamless integration with the Google Translation API.
+<br>
 3.Simple and user-friendly Command-Line Interface (CLI).
+<br>
 4.Error handling for invalid inputs or API issues.
 
 # Technologies Used
